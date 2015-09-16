@@ -1,14 +1,10 @@
 AB Electronics Python Libraries
 =====
 
-Python 3.x Libraries to work with Raspberry Pi expansion boards from http://www.abelectronics.co.uk
+Python 3.x Libraries to work with GentlemanBrewPi ADC
 
 Python 3.x with smbus
 
-To download to your Raspberry Pi type in terminal: 
-
-```
-git clone https://github.com/abelectronicsuk/ABElectronics_Python3_Libraries.git
 ```
 ###ADCDACPi
 This directory contains ADC DAC Pi Python Library with ADC read and DAC write demos to use with the ADC DAC Pi from  https://www.abelectronics.co.uk/products/3/Raspberry-Pi/39/ADC-DAC-Pi-Raspberry-Pi-ADC-and-DAC-expansion-board
